@@ -598,7 +598,9 @@
     "Folder",
     "Min",
     "Valid",
-    "{{team}}: {{staffing}}"
+    "{{team}}: {{staffing}}",
+    "%s – Total",
+    "name@example.com"
   ],
   "ja": [
     "Azure",
