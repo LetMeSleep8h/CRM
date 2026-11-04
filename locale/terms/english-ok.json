@@ -715,7 +715,8 @@
     "Email BCC",
     "SHA1 Hash",
     "{{team}}: {{staffing}}",
-    "Scotland"
+    "Scotland",
+    "name@example.com"
   ],
   "zh-CN": [
     "Azure",
