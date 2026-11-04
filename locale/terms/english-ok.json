@@ -38,7 +38,8 @@
     "am / pm",
     "Individual",
     "{{team}}: {{staffing}}",
-    "General"
+    "General",
+    "name@example.com"
   ],
   "es-AR": [
     "AM / PM",
@@ -600,7 +601,8 @@
     "HTML URL",
     "ICS URL",
     "SHA1 Hash",
-    "{{team}}: {{staffing}}"
+    "{{team}}: {{staffing}}",
+    "name@example.com"
   ],
   "ko": [
     "Azure",
@@ -711,7 +713,8 @@
   ],
   "zh-CN": [
     "Azure",
-    "SHA1 Hash"
+    "SHA1 Hash",
+    "name@example.com"
   ],
   "zh-TW": [
     "Azure",
