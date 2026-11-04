@@ -29,7 +29,8 @@
   ],
   "el": [
     "Azure",
-    "SHA1 Hash"
+    "SHA1 Hash",
+    "name@example.com"
   ],
   "es": [
     "AM / PM",
@@ -704,7 +705,9 @@
     "SHA1 Hash",
     "Test",
     "am / pm",
-    "Min"
+    "Min",
+    "Problem",
+    "name@example.com"
   ],
   "tr": [
     "4. Kiosk",
