@@ -1004,7 +1004,9 @@
     "manifest.",
     "s",
     "Min",
-    "SMTP test"
+    "SMTP test",
+    "Problem",
+    "name@example.com"
   ],
   "am": [
     "HTML URL",
