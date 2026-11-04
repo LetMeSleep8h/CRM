@@ -51,7 +51,8 @@
     "SHA1 Hash",
     "am / pm",
     "{{team}}: {{staffing}}",
-    "General"
+    "General",
+    "name@example.com"
   ],
   "es-CO": [
     "AM / PM",
