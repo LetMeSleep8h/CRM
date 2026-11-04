@@ -708,7 +708,8 @@
     "Kiosk",
     "SHA1 Hash",
     "Test",
-    "risk"
+    "risk",
+    "name@example.com"
   ],
   "vi": [
     "Azure",
