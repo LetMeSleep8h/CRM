@@ -609,7 +609,8 @@
     "HTML URL",
     "ICS URL",
     "SHA1 Hash",
-    "{{team}}: {{staffing}}"
+    "{{team}}: {{staffing}}",
+    "name@example.com"
   ],
   "nl": [
     "4. Kiosk",
