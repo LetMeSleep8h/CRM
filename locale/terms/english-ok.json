@@ -1078,7 +1078,8 @@
   ],
   "he": [
     "SHA1 Hash",
-    "{{team}}: {{staffing}}"
+    "{{team}}: {{staffing}}",
+    "name@example.com"
   ],
   "sk": [
     "SHA1 Hash",
