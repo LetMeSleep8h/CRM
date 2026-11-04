@@ -656,7 +656,8 @@
     "am / pm",
     "Offline",
     "Individual",
-    "{{team}}: {{staffing}}"
+    "{{team}}: {{staffing}}",
+    "name@example.com"
   ],
   "pt-BR": [
     "Azure",
