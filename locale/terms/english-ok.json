@@ -855,7 +855,9 @@
     "Min",
     "Valid",
     "{{team}}: {{staffing}}",
-    "General"
+    "General",
+    "%s – Total",
+    "name@example.com"
   ],
   "sv": [
     "4. Kiosk",
