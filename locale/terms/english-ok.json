@@ -9,7 +9,10 @@
     "in",
     "Content Security Policy",
     "Min",
-    "{{team}}: {{staffing}}"
+    "{{team}}: {{staffing}}",
+    "%1$s as %2$s",
+    "Stop",
+    "name@example.com"
   ],
   "cs": [
     "AM / PM",
