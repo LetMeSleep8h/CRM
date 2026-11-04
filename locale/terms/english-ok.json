@@ -1071,7 +1071,8 @@
   ],
   "am": [
     "HTML URL",
-    "SHA1 Hash"
+    "SHA1 Hash",
+    "name@example.com"
   ],
   "ar": [
     "SHA1 Hash",
