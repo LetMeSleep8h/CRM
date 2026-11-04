@@ -538,7 +538,17 @@
     "SMTP test",
     "Kiosk Settings",
     "{{team}}: {{staffing}}",
-    "HTTP Status: {{status}}"
+    "HTTP Status: {{status}}",
+    "Tax ID",
+    "Tax ID (EIN)",
+    "Attendance Sheet",
+    "Letterhead",
+    "Device",
+    "Login as Person",
+    "Passkey",
+    "Stop",
+    "User %d",
+    "name@example.com"
   ],
   "fr": [
     "AM / PM",
