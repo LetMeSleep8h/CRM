@@ -916,7 +916,8 @@
     "SHA1 Hash",
     "am / pm",
     "Data",
-    "{{team}}: {{staffing}}"
+    "{{team}}: {{staffing}}",
+    "name@example.com"
   ],
   "ta": [
     "Azure",
