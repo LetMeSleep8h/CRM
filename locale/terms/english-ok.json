@@ -802,7 +802,8 @@
     "SHA1 Hash",
     "URL",
     "manifest.",
-    "{{team}}: {{staffing}}"
+    "{{team}}: {{staffing}}",
+    "name@example.com"
   ],
   "nb": [
     "4. Kiosk",
