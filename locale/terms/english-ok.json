@@ -77,7 +77,8 @@
     "am / pm",
     "Individual",
     "{{team}}: {{staffing}}",
-    "General"
+    "General",
+    "name@example.com"
   ],
   "es-SV": [
     "AM / PM",
