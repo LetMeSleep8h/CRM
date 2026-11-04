@@ -922,7 +922,8 @@
   "ta": [
     "Azure",
     "SHA1 Hash",
-    "{{team}}: {{staffing}}"
+    "{{team}}: {{staffing}}",
+    "name@example.com"
   ],
   "te": [
     "App",
