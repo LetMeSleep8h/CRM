@@ -1066,6 +1066,7 @@
     "SHA1 Hash",
     "Offline",
     "Max",
-    "Min"
+    "Min",
+    "name@example.com"
   ]
 }
