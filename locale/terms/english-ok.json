@@ -796,7 +796,10 @@
     "Min",
     "Send",
     "Team",
-    "{{team}}: {{staffing}}"
+    "{{team}}: {{staffing}}",
+    "Person %d",
+    "Problem",
+    "name@example.com"
   ],
   "pl": [
     "4. Kiosk",
