@@ -814,7 +814,9 @@
     "am / pm",
     "Offline",
     "Link",
-    "Folder"
+    "Folder",
+    "Problem",
+    "name@example.com"
   ],
   "ro": [
     "AM / PM",
